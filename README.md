@@ -1,7 +1,9 @@
 ### Kos-Kosan
+
     Aplikasi ini membutuhkan koneksi internet untuk menampilkan maps dari google
 
 ### Tools
+
     - 000webhost.com
     - Android Studio
     - Sublime Text
@@ -14,8 +16,9 @@
 ### Link
 
     Web Platform - https://muhammadhasfar.000webhostapp.com
-    https://raw.githubusercontent.com/deden1998/Kos-Kosan/master/Screenshot%20(81).png
+    
 ### Web
+
    ![Screenshot (81)](https://user-images.githubusercontent.com/63124631/89544374-3f470100-d82c-11ea-93f0-8669fb711e69.png)
     
 ### Running the tests
